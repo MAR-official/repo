@@ -16,4 +16,4 @@ To set a keyboard shortcut:
 
 <img width="633" alt="1" src="https://user-images.githubusercontent.com/75268095/148041185-eedda990-01a0-4985-84e5-fe9e6ccaa2a6.png">
 
-<img width="628" alt="1" src="https://user-images.githubusercontent.com/75268095/149751255-28caadc8-b58e-4f0c-86b9-e784203b637a.png">
+<img width="635" alt="1" src="https://user-images.githubusercontent.com/75268095/149763491-6d1d85c1-b513-495d-8163-524287cc7acd.png">
