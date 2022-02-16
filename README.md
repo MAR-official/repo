@@ -8,7 +8,7 @@ You can download and install the repo from here [https://mhr-official.github.io]
 
 To set a keyboard shortcut:
 
-* For toggle:  RunScript(special://home/addons/script.bluetooth.delay/AudioDelay.py)
+* For toggle:    RunScript(script.bluetooth.delay)
 
 * For device 1:  RunScript(special://home/addons/script.bluetooth.delay/device1.py)
 
