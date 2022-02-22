@@ -10,9 +10,9 @@ To set a keyboard shortcut:
 
 * For toggle:    RunScript(script.bluetooth.delay)
 
-* For device 1:  RunScript(script.bluetooth.delay,0)
+* For speakers:  RunScript(script.bluetooth.delay,0)
 
-* For device 2:  RunScript(script.bluetooth.delay,1)
+* For bluetooth:  RunScript(script.bluetooth.delay,1)
 
 <img width="633" alt="1" src="https://user-images.githubusercontent.com/75268095/148041185-eedda990-01a0-4985-84e5-fe9e6ccaa2a6.png">
 
