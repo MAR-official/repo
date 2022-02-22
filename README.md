@@ -10,9 +10,9 @@ To set a keyboard shortcut:
 
 * For toggle:    RunScript(script.bluetooth.delay)
 
-* For device 1:  RunScript(special://home/addons/script.bluetooth.delay/device1.py)
+* For device 1:  RunScript(script.bluetooth.delay,0)
 
-* For device 2:  RunScript(special://home/addons/script.bluetooth.delay/device2.py)
+* For device 2:  RunScript(script.bluetooth.delay,1)
 
 <img width="633" alt="1" src="https://user-images.githubusercontent.com/75268095/148041185-eedda990-01a0-4985-84e5-fe9e6ccaa2a6.png">
 
