@@ -1,4 +1,4 @@
-# BT Delay for Kodi
+# Bluetooth Delay for Kodi
 ## script.bluetooth.delay
 This addon makes it easy to use Kodi with bluetooth headphones.
 
@@ -12,9 +12,7 @@ To set a keyboard shortcut:
 
 * For speakers:  RunScript(script.bluetooth.delay,0)
 
-* For headphones:  RunScript(script.bluetooth.delay,1)
+* For bluetooth:  RunScript(script.bluetooth.delay,1)
 
-
-<img width="633" alt="1" src="https://user-images.githubusercontent.com/75268095/156021381-50607683-27f2-4d39-80c3-25b9c3031605.png">
-
-<img width="633" alt="2" src="https://user-images.githubusercontent.com/75268095/156021417-abcdb5bb-c796-43d4-8915-fffde4ad03e5.png">
+<img width="633" alt="1" src="https://user-images.githubusercontent.com/75268095/160254406-544b8cee-aff2-472c-8c05-e0d5b8d14109.png">
+<img width="630" alt="2" src="https://user-images.githubusercontent.com/75268095/160254407-36d6d65e-a01b-43ab-b697-56a2304700b8.png">
