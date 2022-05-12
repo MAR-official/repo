@@ -4,7 +4,7 @@ This addon makes it easy to use Kodi with bluetooth headphones.
 
 With this addon you can set up audio delay for one or two devices, and toggle between them via a shortcut on your home screen, or a shortcut on your keyboard.
 
-You can download and install the repo from here [https://mhr-official.github.io](https://mhr-official.github.io)
+You can download and install the repo from [here](https://github.com/MAR-official/repo/files/8678813/repository.mar-official-2.0.0.zip)   (or install via 'Add Source' with this URL https://mar-official.github.io).
 
 To set a keyboard shortcut:
 
