@@ -14,7 +14,7 @@ To set a keyboard shortcut:
 
 * For bluetooth:  RunScript(script.bluetooth.delay,1)
 
-<img width="633" alt="1" src="https://github.com/MAR-official/test/blob/main/screenshot/1.png">
-<img width="633" alt="2" src="https://github.com/MAR-official/test/blob/main/screenshot/2.png">
-<img width="633" alt="3" src="https://github.com/MAR-official/test/blob/main/screenshot/3.png">
-<img width="633" alt="4" src="https://github.com/MAR-official/test/blob/main/screenshot/4.png">
+<img width="633" alt="1" src="https://github.com/MAR-official/repo/blob/master/screenshot/1.png">
+<img width="633" alt="2" src="https://github.com/MAR-official/repo/blob/master/screenshot/2.png">
+<img width="633" alt="3" src="https://github.com/MAR-official/repo/blob/master/screenshot/3.png">
+<img width="633" alt="4" src="https://github.com/MAR-official/repo/blob/master/screenshot/4.png">
