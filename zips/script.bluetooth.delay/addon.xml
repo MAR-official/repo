@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.bluetooth.delay" name="Bluetooth Delay" version="1.6.0" provider-name="MAR">
+<addon id="script.bluetooth.delay" name="Bluetooth Delay" version="1.6.2" provider-name="MAR">
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
 	</extension>
